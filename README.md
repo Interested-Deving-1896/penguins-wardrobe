@@ -1,32 +1,75 @@
-![](./penguins-wardrobe.png)
+[update-readmes]   Mode: rewrite — migrating to template structure...
 # penguins-wardrobe
 
-It is a repository mainly consisting of .yaml files and simple bash scripts used
-by eggs to create customizations of Linux systems starting from a minimal
-image - referred to as "naked" - to achieve a complete system.
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/penguins-wardrobe)
 
-It's too hard and long for me to have differents translation of this
-documentation, so I decided to write it in italian and give just a translation
-link.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-## Documentation
+## Architecture
 
-Documentation of penguins-wardrobe was moved to
-[penguins-eggs.net](https://penguins-eggs.net/docs/Tutorial/wardrobe-users-guide).
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-# More informations
+## Install
 
-You can contact me by [mail](mailto://pieroproietti@gmail.com) or follow me on
-[blog](https://penguins-eggs.net),
-[facebook](https://www.facebook.com/groups/128861437762355/),
-[github](https://github.com/pieroproietti/penguins-krill),
-[jtsi](https://meet.jit.si/PenguinsEggsMeeting),
-[reddit](https://www.reddit.com/user/Artisan61),
-[telegram](https://t.me/penguins_eggs),
-[twitter](https://twitter.com/pieroproietti).
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-# Copyright and licenses
+```bash
+git clone https://github.com/Interested-Deving-1896/penguins-wardrobe.git
+cd penguins-wardrobe
+```
 
-Copyright (c) 2017, 2024
-[Piero Proietti](https://penguins-eggs.net/about-me.html), dual licensed under
-the MIT or GPL Version 2 licenses.
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/penguins-wardrobe`](https://github.com/Interested-Deving-1896/penguins-wardrobe) and mirrored through:
+
+```
+Interested-Deving-1896/penguins-wardrobe  ──►  OpenOS-Project-OSP/penguins-wardrobe  ──►  OpenOS-Project-Ecosystem-OOC/penguins-wardrobe
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[MIT](https://github.com/Interested-Deving-1896/penguins-wardrobe/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
